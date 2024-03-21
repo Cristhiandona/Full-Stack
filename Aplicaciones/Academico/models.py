@@ -7,4 +7,3 @@ class Usuario(models.Model):
     nombre = models.CharField(max_lenght=60)
     apellido = models.CharField(max_lenght=60)
 
-    #Comentarios para GIT
